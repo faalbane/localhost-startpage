@@ -1,0 +1,26 @@
+FRANK ALBANESE
+Serial CTO & Co-Founder • AI/ML • Distributed Systems • Enterprise Platforms
+New York, NY | linkedin.com/in/frank-albanese-a8b17885 | github.com/faalbane
+
+March 23, 2026
+
+Hiring Manager
+Moloco
+Seattle, WA
+
+Re: Ecosystem Solutions Architect (SDK & Mediation)
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Ecosystem Solutions Architect (SDK & Mediation) position at Moloco. With over ten years of experience architecting scalable platforms, owning complex integrations across external partner ecosystems, and serving as a senior technical point of contact for enterprise customers and platform partners, I am excited by the opportunity to shape Moloco's technical integration strategy and execution across major mediation and SDK platform partners.
+
+My experience at FlutterFlow (Y Combinator W21) directly maps to the ecosystem-level leadership this role demands. As Enterprise Customer Success Engineer, I served as the senior technical partner for enterprise clients building mission-critical applications, architecting custom solutions integrating cloud-native services (Firebase, GCP, AWS) and third-party APIs for complex requirements. I drove product strategy feedback loops between enterprise customers and engineering leadership, directly influencing platform roadmap and feature prioritization — the same cross-functional influence between SDK Engineering, Product, and Partnerships that this role requires. I led technical enablement initiatives, defining best practices for security, performance optimization, and distributed application architecture that scaled across the customer ecosystem.
+
+As a two-time CTO and Y Combinator founder, I have repeatedly operated at the intersection of technical architecture and partner-facing leadership in ambiguous, fast-moving environments. At CoVerified (Y Combinator W21), I defined and executed the full technology vision for a platform handling sensitive data at scale, designed distributed systems with compliance-first engineering, and recruited and led cross-functional engineering teams. At CopyCatch.AI, I architect scalable AI/ML pipelines and lead product engineering and technical strategy, aligning technology investments with go-to-market objectives. These experiences have sharpened my ability to define technical standards, identify systemic integration gaps, and drive cross-functional initiatives that improve platform scalability and reliability — core responsibilities of this role.
+
+My technical foundation — spanning Python, TypeScript, Node.js, cloud infrastructure (GCP, AWS), microservices, event-driven architecture, and data pipelines — provides the depth needed to lead platform-level integration design, debug complex SDK behaviors, and engage in deep technical discussions on architecture, APIs, performance, and latency with mediation platform partners like AppLovin MAX, ironSource LevelPlay, and Google AdMob. My four-plus years at Henry Ford Health System building data-driven web applications and scalable data pipelines further reinforces my ability to operate in production environments where integration quality, observability, and technical rigor are paramount.
+
+Moloco's mission to make machine learning accessible for growth and performance resonates with my passion for building technology that solves hard problems at scale. The opportunity to operate at the ecosystem layer — shaping integration architecture, influencing roadmap alignment with platform partners, and driving initiatives that improve the scalability and reliability of Moloco's SDK presence across thousands of publishers — is deeply compelling. I welcome the opportunity to discuss how my background in platform architecture, partner-facing technical leadership, and cross-functional execution can help Moloco scale its mediation ecosystem. Thank you for your time and consideration.
+
+Sincerely,
+Frank Albanese
