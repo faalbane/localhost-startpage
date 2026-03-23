@@ -1,0 +1,26 @@
+FRANK ALBANESE
+Serial CTO & Co-Founder • AI/ML • Distributed Systems • Enterprise Platforms
+New York, NY | linkedin.com/in/frank-albanese-a8b17885 | github.com/faalbane
+
+March 23, 2026
+
+Hiring Manager
+Faire
+New York City, NY / San Francisco, CA
+
+Re: Marketing Analytics Senior Lead
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Marketing Analytics Senior Lead position at Faire. With over ten years of experience architecting data-driven platforms, building measurement and analytics systems from scratch, and leading cross-functional initiatives that translate complex data into strategic business decisions, I am excited by the opportunity to own and evolve the analytics and measurement strategy for Lifecycle & CRM marketing at a company powering the future of independent retail.
+
+My foundation in analytics and data engineering was built over four-plus years at Henry Ford Health System, where I designed and built scalable data pipelines, real-time analytics platforms, and predictive modeling systems processing large-scale datasets for clinical and operational decision-making. I applied machine learning techniques for pattern recognition and predictive insights, translating complex analyses into clear, actionable recommendations for senior stakeholders — exactly the kind of insight generation and storytelling this role demands. This experience gave me deep fluency in defining measurement frameworks, building strategic dashboards, and using data to drive high-impact decisions in complex, cross-functional environments.
+
+At FlutterFlow (Y Combinator W21), I served as the senior technical partner for enterprise clients, where I drove product strategy feedback loops between customers and engineering leadership, directly influencing platform roadmap, feature prioritization, and investment decisions. I developed a keen understanding of how to measure and optimize user behavior across the funnel, design experiments to validate hypotheses, and synthesize results into executive-level recommendations. This cross-functional partnership — sitting at the intersection of Product, Marketing, and Data — mirrors the strategic analytics thought partnership this role requires with Lifecycle Marketing, Strategic Finance, and Marketing Leadership.
+
+As a two-time CTO and Y Combinator founder, I have repeatedly built measurement and analytics capabilities from zero. I have defined north-star KPIs, designed attribution and ROI frameworks, and led ambiguous, end-to-end analytical efforts that balanced short-term performance with long-term value creation. At CoVerified (Y Combinator W21), I built data infrastructure for predictive modeling and risk assessment at scale, and partnered directly with leadership to align technology and data investments with strategic objectives. At CopyCatch.AI, I architect AI/ML pipelines for content analysis and pattern recognition, demonstrating my ability to own complex analytical systems end-to-end — from hypothesis development through execution, synthesis, and recommendations.
+
+Faire's mission to level the playing field for independent retailers resonates with my passion for using data and technology to solve meaningful problems at scale. The opportunity to set the analytical direction for lifecycle measurement, define how success is measured across both sides of a two-sided marketplace, and influence how Faire invests marketing dollars through experimentation and attribution is deeply compelling. As a New York City resident with deep experience in analytics, data engineering, experimentation design, and strategic decision-making, I am well-positioned to contribute immediately. I welcome the opportunity to discuss how my background can help Faire drive sustainable, efficient growth through its owned channels. Thank you for your time and consideration.
+
+Sincerely,
+Frank Albanese
