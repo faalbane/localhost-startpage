@@ -1,0 +1,7 @@
+Additional Information
+
+Python has been central to my work across every stage of my career. At Henry Ford Health System, I used Python extensively for data engineering, building ETL pipelines, predictive models, and analytics dashboards that supported clinical decision-making under HIPAA compliance. At CopyCatch.AI, Python is the backbone of our AI/ML platform, where I architect LLM-powered content authentication pipelines using libraries like LangChain, scikit-learn, and cloud-native SDKs for GCP and AWS. I also use Python daily through Claude Code as my primary development environment, giving me hands-on experience with Anthropic's tools and a deep understanding of how Python developers interact with LLM-powered workflows in practice.
+
+Beyond Python, I want to highlight that I am based in New York City and available to start immediately. I am comfortable with the travel requirements of this role and genuinely energized by the prospect of working directly with enterprise customers to design and deploy Claude-powered solutions. My experience spans the full lifecycle of enterprise technical advisory, from pre-sales discovery and architecture design through production deployment and ongoing optimization, and I bring a founder's urgency and ownership mindset to every engagement.
+
+I am also happy to provide references from enterprise stakeholders, engineering leaders, and Y Combinator partners who can speak to my technical depth, client-facing effectiveness, and ability to deliver in high-stakes environments.
