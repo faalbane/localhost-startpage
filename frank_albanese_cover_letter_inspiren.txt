@@ -1,0 +1,26 @@
+FRANK ALBANESE
+Serial CTO & Co-Founder • AI/ML • Distributed Systems • Enterprise Platforms
+New York, NY | linkedin.com/in/frank-albanese-a8b17885 | github.com/faalbane
+
+March 23, 2026
+
+Hiring Manager
+Inspiren
+Remote, US
+
+Re: Enterprise Growth Director
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Enterprise Growth Director position at Inspiren. With over four years of hands-on experience building data-driven applications in a major healthcare system, a proven track record of driving enterprise platform adoption at a Y Combinator-backed company, and deep technical fluency that enables me to speak the language of both clinical operators and C-level buyers, I am uniquely positioned to help Inspiren expand its footprint across the senior living industry.
+
+My healthcare foundation was built at Henry Ford Health System, where I spent four-plus years engineering data-driven web applications in collaboration with the Department of Emergency Medicine. I delivered real-time analytics and predictive tools for clinical decision-making, designed scalable data pipelines processing large-scale healthcare datasets, and ensured HIPAA-compliant data handling and security protocols across all systems. This experience gave me a deep, firsthand understanding of how healthcare organizations evaluate, adopt, and operationalize technology — the exact buyer psychology and regulatory landscape that Inspiren's sales cycles demand.
+
+At FlutterFlow (Y Combinator W21), I served as the senior technical partner for enterprise clients across industries, which sharpened my ability to manage complex, value-based sales engagements. I architected custom solutions integrating cloud-native services and third-party APIs for enterprise requirements, drove product strategy feedback loops between customers and engineering leadership, and directly influenced platform roadmap based on enterprise needs. I consistently built deep, trust-based client relationships by translating technical capabilities into clear business value — identifying the right decision makers, understanding their operational pain points, and demonstrating differentiated solutions that mapped directly to their workflows.
+
+As a two-time CTO and Y Combinator founder, I bring the entrepreneurial intensity and self-driven mindset this role requires. I have built companies from zero, aligned technology investments with go-to-market strategy and fundraising milestones, and developed repeatable processes for customer acquisition and engagement. At CopyCatch.AI, I lead both technical strategy and business development, giving me direct experience with full-cycle sales, deal negotiation, and revenue growth in an early-stage environment. I understand what it takes to prospect, build pipeline, close new business, and exceed targets — because as a founder, my livelihood has depended on it.
+
+Inspiren's mission resonates deeply with me. Having spent years building technology in healthcare, I have seen firsthand how the right platform can transform clinical and operational outcomes. Inspiren's integrated approach to senior living — combining nurse specialists with powerful analytics to drive better care — represents exactly the kind of technology I am passionate about bringing to market. I am energized by the opportunity to leverage my healthcare industry expertise, enterprise relationship-building skills, and technical credibility to help Inspiren grow its presence across senior living communities nationwide. I welcome the opportunity to discuss how my background can contribute to Inspiren's enterprise growth objectives. Thank you for your time and consideration.
+
+Sincerely,
+Frank Albanese
