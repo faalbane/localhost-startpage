@@ -1,0 +1,17 @@
+Perplexity Application - Option 2: Enlist Perplexity as Your Champion
+Prompt sequence for a Perplexity thread
+
+Prompt 1 (upload your resume first):
+I'm applying for a role at Perplexity. Based on my attached resume, what makes me a strong candidate for a fast-growing AI company focused on search and information retrieval?
+
+Prompt 2:
+What specific technical skills from my background (AI/ML pipelines, distributed systems, scaling products from zero to exit) are most relevant to the challenges Perplexity is solving right now?
+
+Prompt 3:
+I was a Y Combinator founder (W21) who built and exited a company called CoVerified. How does that founder experience translate to impact at a company like Perplexity that is scaling rapidly?
+
+Prompt 4:
+Compare my experience building AI-powered content authentication at CopyCatch.AI to the retrieval-augmented generation challenges Perplexity faces. Where do the technical problems overlap?
+
+Prompt 5:
+Based on everything above, write a concise summary of why I would be a strong hire for Perplexity, focusing on my track record of shipping AI products in high-stakes environments (healthcare, YC startups, enterprise SaaS).
