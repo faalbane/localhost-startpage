@@ -1,0 +1,26 @@
+FRANK ALBANESE
+Serial CTO & Co-Founder • AI/ML • Distributed Systems • Enterprise Platforms
+New York, NY | linkedin.com/in/frank-albanese-a8b17885 | github.com/faalbane
+
+March 23, 2026
+
+Hiring Manager
+Hover
+San Francisco / New York
+
+Re: Senior Solutions Architect
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Senior Solutions Architect position at Hover. As a serial CTO, Y Combinator founder (W21), and enterprise customer success engineer, I bring a rare combination of hands-on technical depth and customer-facing leadership that aligns precisely with what Hover is building in its Solutions Architecture function. The opportunity to help define the playbooks, technical patterns, and operational foundations for enterprise implementations at a company transforming how people understand and interact with their properties is deeply compelling.
+
+My most directly relevant experience comes from my role as Enterprise Customer Success Engineer at FlutterFlow (Y Combinator W21), where I served as the senior technical partner for enterprise clients building mission-critical applications. I led technical onboarding and integration design, architecting custom solutions that integrated AI/ML capabilities, cloud-native services (Firebase, GCP, AWS), and third-party APIs to meet complex enterprise requirements. I drove product strategy feedback loops between enterprise customers and engineering leadership, directly influencing platform roadmap and feature prioritization — exactly the kind of cross-functional partnership between customers, Product, and Engineering that this role demands.
+
+As a two-time CTO, I bring the architectural thinking and systems design perspective that enterprise Solutions Architecture requires. At CoVerified (Y Combinator W21), I designed and built secure, scalable distributed systems handling sensitive health data under strict compliance requirements, taking the platform from concept through production to a successful exit. Currently at CopyCatch.AI, I architect scalable AI/ML pipelines and lead technical strategy aligned with customer needs. These experiences have given me deep fluency in discovery, architecture design, implementation, and go-live — the full lifecycle Hover needs its Solutions Architect to own.
+
+What excites me most about this role is the chance to be the first Solutions Architect building this function at Hover. I have repeatedly built teams, processes, and technical foundations from scratch. I understand what it takes to translate complex customer workflows into clear technical specifications and repeatable implementation frameworks. My experience spans APIs, SSO, data pipelines, and partner system integrations — the exact integration surface area enterprise property, insurance, and construction companies will need as they adopt Hover's platform. Combined with four years of engineering data-driven applications at Henry Ford Health System, I bring a strong foundation in troubleshooting complex technical issues through debugging, log analysis, and system investigation.
+
+Hover's mission to help people design, improve, and protect the properties they love — powered by proprietary AI built on over a decade of real property data — resonates with my passion for applying technology to solve tangible, real-world problems. As a New York City resident, I am well-positioned to support enterprise customers and collaborate with Hover's teams across both coasts. I would welcome the opportunity to discuss how my experience leading enterprise technical engagements, designing integration architectures, and building technical functions from the ground up can help Hover scale its enterprise platform. Thank you for your time and consideration.
+
+Sincerely,
+Frank Albanese
