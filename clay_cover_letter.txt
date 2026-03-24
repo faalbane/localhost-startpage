@@ -1,0 +1,28 @@
+FRANK ALBANESE
+Serial CTO & Co-Founder • AI/ML • Distributed Systems • Enterprise Platforms
+New York, NY | linkedin.com/in/frank-albanese-a8b17885 | github.com/faalbane
+
+March 24, 2026
+
+Hiring Manager
+Clay
+New York, NY
+
+Re: Solutions Engineer
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Solutions Engineer role at Clay. As a serial CTO, Y Combinator founder, and hands-on technical builder with over a decade of experience architecting data-driven platforms, guiding enterprise customers through complex technical adoptions, and delivering scalable AI/ML systems, I am deeply excited by Clay's mission to transform go-to-market with unique data enrichment and the ability to act on it -and I want to help Clay's customers unlock the full power of the platform.
+
+My experience as Enterprise Customer Success Engineer at FlutterFlow maps directly to the technical advisory and customer-facing work at the heart of this role. I served as the senior technical partner for enterprise clients across industries, guiding them from initial technical discovery through successful deployment. I architected custom solutions integrating AI/ML capabilities, cloud-native services, and third-party APIs for complex enterprise requirements -the exact kind of multi-source data orchestration and workflow automation that Clay's customers need to build effective GTM motions. I drove product strategy feedback loops directly between enterprise customers and engineering leadership, influencing platform roadmap and feature prioritization, and I developed and delivered technical content ranging from deep-dive architecture sessions for engineering teams to business value presentations for executive stakeholders. This is the cross-functional work between Sales, Product, and Engineering that I thrive in and that a Solutions Engineer at Clay needs to excel at.
+
+What makes me particularly well-suited for Clay is my deep understanding of data pipelines, enrichment workflows, and the technical challenges of combining multiple data sources into actionable intelligence. At CopyCatch.AI, I currently architect scalable AI/ML pipelines that combine multiple analytical signals into unified outputs -conceptually similar to how Clay's waterfall enrichment orchestrates 150+ data providers to deliver the most complete picture of a prospect. At CoVerified (Y Combinator W21), I scaled a platform to 450K+ users across 50 campuses, building distributed systems that ingested, enriched, and surfaced data in real time under strict compliance requirements. My four-plus years at Henry Ford Health System building data-driven web applications and predictive analytics tools further demonstrates my ability to translate complex data engineering into products that non-technical stakeholders can use to drive outcomes.
+
+Clay's approach to GTM resonates with how I think about technology: function before perfection, build the foundation right, then enhance. I have spent my career helping customers navigate the gap between what a platform can do and what they need it to do -whether that means designing custom workflows, troubleshooting integrations, or simply understanding a customer's unique data landscape well enough to recommend the right architecture. Clay's credit-based enrichment model, Claygent AI agent, and deep integration ecosystem represent exactly the kind of powerful, flexible platform where a strong Solutions Engineer can be the difference between a customer getting basic value and a customer transforming their entire GTM operation.
+
+I am passionate about Clay's position at the center of the GTM revolution. The opportunity to help customers -from scrappy startups to enterprise RevOps teams -build sophisticated enrichment workflows, optimize their outbound motions, and get measurable ROI from Clay's platform is exactly the kind of high-impact, technically rich work I am looking for. As a New York City resident comfortable with APIs, data pipelines, Python, and cross-organizational collaboration, I am ready to contribute immediately.
+
+I would welcome the opportunity to discuss how my experience in enterprise technical advisory, data platform architecture, and customer-facing technical leadership can contribute to Clay's growth. Thank you for your time and consideration.
+
+Sincerely,
+Frank Albanese
