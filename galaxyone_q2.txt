@@ -1,0 +1,3 @@
+Please list the AI tools that you are familiar with.
+
+Claude (Anthropic), ChatGPT/GPT-4, GitHub Copilot, Claude Code, Cursor, OpenAI API, Anthropic API, Hugging Face Transformers, LangChain, Stable Diffusion, NVIDIA StyleGAN2, TensorFlow, PyTorch, scikit-learn, Google Vertex AI, AWS SageMaker, Midjourney, v0 by Vercel
