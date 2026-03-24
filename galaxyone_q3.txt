@@ -1,9 +1,9 @@
 Please list all relevant companies you have worked for.
 
-CopyCatch.AI (Co-Founder & CTO) — AI-powered content authentication and IP protection platform. Built ML pipelines for content analysis and pattern recognition.
+CopyCatch.AI (Co-Founder & CTO) -AI-powered content authentication and IP protection platform. Built ML pipelines for content analysis and pattern recognition.
 
-CoVerified (Co-Founder & CTO, Y Combinator W21) — COVID-19 campus health platform that scaled to 50 campuses and 450K+ users. Designed distributed systems processing sensitive health data with real-time risk assessment. Secured CDC collaboration and MIT investment. Successful exit.
+CoVerified (Co-Founder & CTO, Y Combinator W21) -COVID-19 campus health platform that scaled to 50 campuses and 450K+ users. Designed distributed systems processing sensitive health data with real-time risk assessment. Secured CDC collaboration and MIT investment. Successful exit.
 
-Algorithmic Trading (Independent) — Designed and built autonomous trading algorithms and bot infrastructure for real-time financial market execution on Solana and traditional markets.
+Algorithmic Trading (Independent) -Designed and built autonomous trading algorithms and bot infrastructure for real-time financial market execution on Solana and traditional markets.
 
-Blockchain Governance (Cardano Catalyst via Snapbrillia) — Contributed to decentralized governance frameworks advancing secure, community-driven decision-making at scale.
+Blockchain Governance (Cardano Catalyst via Snapbrillia) -Contributed to decentralized governance frameworks advancing secure, community-driven decision-making at scale.
