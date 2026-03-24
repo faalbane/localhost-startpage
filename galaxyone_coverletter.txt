@@ -1,0 +1,31 @@
+Frank Albanese
+New York, NY
+faalbane@gmail.com | (248) 747-2606
+linkedin.com/in/frank-albanese-a8b17885
+
+March 24, 2026
+
+Galaxy Digital
+Hiring Manager — Senior Back End Developer, GalaxyOne
+
+Dear Hiring Team,
+
+I'm writing to express my interest in the Senior Back End Developer role for GalaxyOne. As a CTO and Y Combinator founder who has taken products from zero to hundreds of thousands of users — and who actively builds algorithmic trading systems on Solana — I'm excited about the opportunity to help architect the back end powering Galaxy's new consumer platform at the intersection of traditional finance and crypto.
+
+Over the past 10+ years I've designed and shipped high-performance distributed systems in regulated, data-intensive environments. At CoVerified (YC W21), I built the entire technical stack from scratch: microservices, event-driven pipelines, and real-time data processing that scaled to 50 campuses and 450K+ users while maintaining HIPAA compliance. That experience — standing up reliable, secure systems under pressure with real consequences for failure — maps directly to what GalaxyOne needs as it handles sensitive financial data and high transaction volumes.
+
+My technical background aligns closely with what you're looking for:
+
+- Deep hands-on experience with Node.js, TypeScript, Python, and cloud-native architectures on GCP and AWS, including Docker and Kubernetes.
+- Proven track record designing microservices and event-driven systems that process data at scale with strong security and compliance posture.
+- SQL and NoSQL data modeling for both analytical workloads and high-throughput transactional systems.
+- Active builder in the crypto/Web3 space — I've developed autonomous trading algorithms and bot infrastructure for real-time execution on Solana, and have contributed to blockchain governance frameworks on Cardano.
+
+On the AI front, I co-founded CopyCatch.AI where I'm building ML pipelines for content analysis, and I've applied machine learning for predictive modeling in healthcare at Henry Ford Health System. I'm a strong advocate for using generative AI and automation tools to accelerate development velocity and improve decision-making — something I see Galaxy values as well.
+
+What draws me most to this role is the chance to join a team building a precision product from the ground up, backed by Galaxy's institutional credibility. I thrive in zero-to-one environments, I understand the stakes of fintech, and I bring both the senior back-end depth and the cross-functional leadership perspective of someone who has built and scaled products end to end.
+
+I'd welcome the opportunity to discuss how my experience can contribute to GalaxyOne's success. Thank you for your time and consideration.
+
+Best regards,
+Frank Albanese
