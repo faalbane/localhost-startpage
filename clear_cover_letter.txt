@@ -1,0 +1,30 @@
+FRANK ALBANESE
+Serial CTO & Co-Founder • AI/ML • Distributed Systems • Enterprise Platforms
+New York, NY | linkedin.com/in/frank-albanese-a8b17885 | github.com/faalbane
+
+March 25, 2026
+
+Hiring Manager
+CLEAR
+New York, NY
+
+Re: Vice President, Engineering
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Vice President, Engineering role at CLEAR. As a serial CTO, Y Combinator founder, and engineering leader with over a decade of experience building and scaling production AI/ML systems, distributed platforms, and high-trust applications in regulated environments, I am deeply aligned with CLEAR's mission to create a frictionless, secure identity experience -and I am excited by the opportunity to lead engineering teams that power a platform trusted by over 33 million members.
+
+My career has been defined by building identity-critical, compliance-first platforms at scale -exactly the engineering leadership CLEAR needs. At CoVerified (Y Combinator W21), I served as Co-Founder and CTO, scaling a campus health identity platform from zero to 450K+ users across 50 campuses. I led cross-functional engineering teams building distributed systems that handled real-time identity verification and health data under strict HIPAA compliance -the same intersection of identity, trust, and regulatory rigor that defines CLEAR's platform. I owned end-to-end technical strategy, from infrastructure architecture and security protocols to hiring, team development, and engineering culture. The platform earned CDC collaboration and MIT investment before a successful exit, demonstrating my ability to deliver mission-critical systems that institutions trust at scale.
+
+At CopyCatch.AI, I currently define and execute the technology vision as Co-Founder and CTO, architecting scalable AI/ML pipelines that combine computer vision, pattern recognition, and multi-signal analysis into unified authentication decisions. This work -building intelligent systems that verify identity and authenticity in real time -directly parallels the biometric matching and identity verification technology at the core of CLEAR's platform. I have built the technical foundation from concept to MVP, making the architectural decisions around infrastructure, security, and scalability that determine whether a platform can grow from early product to enterprise-grade deployment.
+
+My experience at FlutterFlow as Enterprise Customer Success Engineer further strengthened my ability to operate at the intersection of engineering leadership and business impact. I served as the senior technical partner for enterprise clients, architecting custom solutions with AI/ML capabilities and driving product strategy feedback loops between customers and engineering leadership. This cross-functional leadership -aligning engineering execution with customer needs and business strategy -is essential for a VP of Engineering at a company like CLEAR, where the platform must continuously evolve to meet the demands of aviation partners, healthcare systems, financial institutions, and millions of end users.
+
+What excites me most about CLEAR is the scale and ambition of the identity platform you are building. From biometric eGates processing travelers in under five seconds at Miami International Airport to enterprise identity solutions powering trusted verification across healthcare and financial services, CLEAR is solving the kind of hard, high-stakes engineering problems that I have spent my career pursuing. I bring deep experience in the exact technical domains that matter: real-time data processing, AI/ML-powered verification, distributed systems architecture, security and compliance engineering, and the leadership to build and scale the engineering teams that deliver these systems reliably.
+
+As a two-time CTO and Y Combinator founder based in New York City, I understand what it takes to build engineering organizations that ship fast without compromising on security or reliability. I have hired and led cross-functional teams, established engineering culture and processes, and made the hard architectural tradeoffs that determine whether a platform scales gracefully or breaks under pressure. I am ready to bring that experience to CLEAR and help lead the next chapter of engineering excellence as CLEAR expands its secure identity network.
+
+I would welcome the opportunity to discuss how my experience in engineering leadership, AI/ML platform architecture, and building high-trust systems in regulated environments can contribute to CLEAR's mission. Thank you for your time and consideration.
+
+Sincerely,
+Frank Albanese
